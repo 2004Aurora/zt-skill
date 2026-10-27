@@ -13,6 +13,12 @@
 
 核心交付包、私教工作流、内部配置和持续更新内容不放在本仓库。付费版入口：`zt-skill-pro`。
 
+## Skill 列表
+
+| Skill | 用途 | 下载 |
+|---|---|---|
+| [vps-tls-vision-setup](./vps-tls-vision-setup/) | 自建 VPS 固定出口梯子（VLESS + TCP + TLS + Vision），配好 Clash Verge 国内直连分流 | [vps-tls-vision-setup.zip](./vps-tls-vision-setup.zip) |
+
 ## 使用原则
 
 请在使用任何 Skill 前阅读对应说明，保护个人隐私，不要提交 API Key、Cookie、Token、密码、微信聊天原文或其他敏感资料。

@@ -1,0 +1,4 @@
+interface:
+  display_name: "VPS TLS/Vision 配置助手"
+  short_description: "复用已成功的普通 TLS/Vision 路线，生成客户端并分层核验与交接"
+  default_prompt: "请使用 $vps-tls-vision-setup 检查我授权的 VPS，准备匹配的 TLS/Vision 客户端，保留现有配置并按约定交接测试。"
